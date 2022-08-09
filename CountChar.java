@@ -26,4 +26,4 @@ public class CountChar {
 		}
 	}
 }
-hello guys
+//hello guys
